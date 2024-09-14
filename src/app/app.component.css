@@ -1,0 +1,12 @@
+.active{
+    background-color: aqua;
+    border: 3px solid yellow;
+}
+.no-active{
+    background-color: white;
+    border: 3px solid red;
+}
+.apple{
+    background: red;
+    border: green 3px solid;
+}
